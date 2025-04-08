@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     line-height: 1.6;
     color: #333;
     background-color: #f4f4f4;
@@ -92,17 +92,6 @@ nav .nav-links a {
 
 .about p {
     font-size: 18px;
-}
-
-/* 頁腳 */
-footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #333;
-    color: #fff;
-    position: relative;
-    bottom: 0;
-    width: 100%;
 }
 
 /* 響應式設計：小螢幕 */
